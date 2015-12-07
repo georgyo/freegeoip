@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fiorix/go-redis/redis"
+	"github.com/makerbot/go-redis/redis"
 )
 
 func TestRateLimiter(t *testing.T) {

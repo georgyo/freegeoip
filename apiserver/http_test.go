@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fiorix/freegeoip"
-	"github.com/fiorix/go-redis/redis"
+	"github.com/makerbot/freegeoip"
+	"github.com/makerbot/go-redis/redis"
 )
 
 func newTestHandler(db *freegeoip.DB) http.Handler {

@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fiorix/go-redis/redis"
+	"github.com/makerbot/go-redis/redis"
 )
 
 var (

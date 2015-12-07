@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/fiorix/freegeoip"
+	"github.com/makerbot/freegeoip"
 )
 
 // openDB opens and returns the IP database.

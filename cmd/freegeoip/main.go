@@ -7,7 +7,7 @@ package main
 import (
 	"log"
 
-	"github.com/fiorix/freegeoip/apiserver"
+	"github.com/makerbot/freegeoip/apiserver"
 )
 
 func main() {

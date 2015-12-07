@@ -16,8 +16,8 @@ import (
 	// embed pprof server.
 	_ "net/http/pprof"
 
-	"github.com/fiorix/freegeoip"
-	"github.com/fiorix/go-redis/redis"
+	"github.com/makerbot/freegeoip"
+	"github.com/makerbot/go-redis/redis"
 	gorilla "github.com/gorilla/handlers"
 	"github.com/prometheus/client_golang/prometheus"
 	"golang.org/x/net/http2"

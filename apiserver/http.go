@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"path"
 
-	"github.com/fiorix/freegeoip"
+	"github.com/makerbot/freegeoip"
 	"github.com/prometheus/client_golang/prometheus"
 )
 
